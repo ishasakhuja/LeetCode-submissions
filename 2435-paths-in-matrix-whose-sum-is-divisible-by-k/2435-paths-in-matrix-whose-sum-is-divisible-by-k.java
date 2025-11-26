@@ -11,7 +11,7 @@ class Solution {
 
         if (i == 0 && j == 0) return sum == 0 ? 1 : 0;
 
-        int paths = helper(grid, i - 1, j, k, sum, dp) + helper(grid, i, j - 1, k, sum, dp);
+        int paths = (helper(grid, i - 1, j, k, sum, dp) + helper(grid, i, j - 1, k, sum, dp)) % mod;
 
         return dp[i][j][sum] = paths;
     }
