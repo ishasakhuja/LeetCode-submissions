@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/1590-make-sum-divisible-by-p) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2536-increment-submatrices-by-one](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/2536-increment-submatrices-by-one) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Dynamic Programming
 |  |
@@ -42,10 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2536-increment-submatrices-by-one](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/2536-increment-submatrices-by-one) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1590-make-sum-divisible-by-p](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/1590-make-sum-divisible-by-p) |
+| [2536-increment-submatrices-by-one](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/2536-increment-submatrices-by-one) |
 ## Simulation
 |  |
 | ------- |
