@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2169-count-operations-to-obtain-zero](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/2169-count-operations-to-obtain-zero) |
+| [2211-count-collisions-on-a-road](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/2211-count-collisions-on-a-road) |
 ## Sorting
 |  |
 | ------- |
@@ -65,4 +66,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3625-count-number-of-trapezoids-ii](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/3625-count-number-of-trapezoids-ii) |
+## String
+|  |
+| ------- |
+| [2211-count-collisions-on-a-road](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/2211-count-collisions-on-a-road) |
+## Stack
+|  |
+| ------- |
+| [2211-count-collisions-on-a-road](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/2211-count-collisions-on-a-road) |
 <!---LeetCode Topics End-->
