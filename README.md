@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0436-find-right-interval](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0436-find-right-interval) |
 | [1590-make-sum-divisible-by-p](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/1590-make-sum-divisible-by-p) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0436-find-right-interval](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0436-find-right-interval) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Geometry
 |  |
@@ -74,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2211-count-collisions-on-a-road](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/2211-count-collisions-on-a-road) |
+## Binary Search
+|  |
+| ------- |
+| [0436-find-right-interval](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0436-find-right-interval) |
 <!---LeetCode Topics End-->
