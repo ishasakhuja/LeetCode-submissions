@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0436-find-right-interval](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0436-find-right-interval) |
+| [0475-heaters](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0475-heaters) |
 | [1590-make-sum-divisible-by-p](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/1590-make-sum-divisible-by-p) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0436-find-right-interval](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0436-find-right-interval) |
+| [0475-heaters](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0475-heaters) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Geometry
 |  |
@@ -80,4 +82,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0436-find-right-interval](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0436-find-right-interval) |
+| [0475-heaters](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0475-heaters) |
+## Two Pointers
+|  |
+| ------- |
+| [0475-heaters](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0475-heaters) |
 <!---LeetCode Topics End-->
