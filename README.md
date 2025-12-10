@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0050-powx-n) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2169-count-operations-to-obtain-zero](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/2169-count-operations-to-obtain-zero) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -87,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0475-heaters](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0475-heaters) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
