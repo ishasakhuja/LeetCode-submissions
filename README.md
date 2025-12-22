@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0436-find-right-interval) |
 | [0475-heaters](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0475-heaters) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1590-make-sum-divisible-by-p](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/1590-make-sum-divisible-by-p) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0022-generate-parentheses) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0022-generate-parentheses) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/2211-count-collisions-on-a-road) |
 ## Stack
