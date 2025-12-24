@@ -1,41 +1,39 @@
 class Solution {
+    boolean canCover(int[] houses, int[] heaters, int rad) {
+        int i = 0;
 
-    public boolean isPossible(int[] houses, int[] heaters, int mid) {
-    int i = 0; // pointer to unheated house
-    
-    for (int h : heaters) {
-        int left = h - mid;
-        int right = h + mid;
+        for (int h : heaters) {
+            int left = h - rad;
+            int right = h + rad;
 
-        // cover houses while they fall within current heater's range
-        while (i < houses.length && houses[i] >= left && houses[i] <= right) {
-            i++;
+            while (i < houses.length && houses[i] >= left && houses[i] <= right) {
+                i++;
+            }
+
+            if (i == houses.length) return true;
         }
 
-        if (i == houses.length) return true; // all houses covered
+        return i == houses.length;
     }
-    return i == houses.length;
-}
-
-
     public int findRadius(int[] houses, int[] heaters) {
         Arrays.sort(houses);
+        int ho = houses.length;
         Arrays.sort(heaters);
+        int max = Math.max(houses[ho - 1] - houses[0], Math.max(heaters[heaters.length - 1] - heaters[0], Math.max(heaters[heaters.length - 1] - houses[0], houses[ho - 1] - heaters[0])));
 
-        int high = Math.max(houses[houses.length - 1] - houses[0], Math.max(houses[houses.length - 1] - heaters[0], heaters[heaters.length - 1] - houses[0]));
-        int low = 0;
         int ans = 0;
+        int l = 0;
+        int h = max;
 
-        while (low <= high) {
-            int mid = low + (high - low)/2;
-            if (isPossible(houses, heaters, mid)) {
-                high = mid - 1;
+        while (l <= h) {
+            int mid = l + (h - l)/2;
+            if (canCover(houses, heaters, mid)) {
                 ans = mid;
-            } 
-            else {
-                low = mid + 1;
+                h = mid - 1;
             }
+            else l = mid + 1;
         }
+
         return ans;
     }
 }
