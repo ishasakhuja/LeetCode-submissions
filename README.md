@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0066-plus-one) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1922-count-good-numbers](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/1922-count-good-numbers) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0066-plus-one) |
 | [0436-find-right-interval](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0436-find-right-interval) |
 | [0475-heaters](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0475-heaters) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0955-delete-columns-to-make-sorted-ii) |
