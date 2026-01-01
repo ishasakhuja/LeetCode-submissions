@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
+| [3576-transform-array-to-all-equal-elements](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/3576-transform-array-to-all-equal-elements) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Dynamic Programming
 |  |
@@ -119,4 +120,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/3074-apple-redistribution-into-boxes) |
+| [3576-transform-array-to-all-equal-elements](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/3576-transform-array-to-all-equal-elements) |
 <!---LeetCode Topics End-->
