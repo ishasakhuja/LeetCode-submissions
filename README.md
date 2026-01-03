@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0022-generate-parentheses) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
