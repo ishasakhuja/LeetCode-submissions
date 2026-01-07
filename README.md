@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Breadth-First Search
 |  |
@@ -126,4 +127,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3576-transform-array-to-all-equal-elements](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/3576-transform-array-to-all-equal-elements) |
+## Tree
+|  |
+| ------- |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 <!---LeetCode Topics End-->
