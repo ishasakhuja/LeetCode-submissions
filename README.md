@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0066-plus-one) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1390-four-divisors](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/1390-four-divisors) |
 | [1922-count-good-numbers](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/1922-count-good-numbers) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0066-plus-one) |
 | [0436-find-right-interval](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0436-find-right-interval) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0475-heaters](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0475-heaters) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0436-find-right-interval](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0436-find-right-interval) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0475-heaters](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0475-heaters) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3074-apple-redistribution-into-boxes](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/3074-apple-redistribution-into-boxes) |
