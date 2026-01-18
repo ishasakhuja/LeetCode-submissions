@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1390-four-divisors](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/1390-four-divisors) |
+| [1535-find-the-winner-of-an-array-game](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/1535-find-the-winner-of-an-array-game) |
 | [1590-make-sum-divisible-by-p](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/1590-make-sum-divisible-by-p) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1535-find-the-winner-of-an-array-game](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/1535-find-the-winner-of-an-array-game) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2169-count-operations-to-obtain-zero](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/2169-count-operations-to-obtain-zero) |
 | [2211-count-collisions-on-a-road](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/2211-count-collisions-on-a-road) |
