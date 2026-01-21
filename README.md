@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0436-find-right-interval) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0475-heaters](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0475-heaters) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0436-find-right-interval) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0475-heaters](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0475-heaters) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3074-apple-redistribution-into-boxes](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/3074-apple-redistribution-into-boxes) |
 ## Geometry
