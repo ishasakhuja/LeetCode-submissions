@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/1590-make-sum-divisible-by-p) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Math
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3453-separate-squares-i](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/3454-separate-squares-ii) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3576-transform-array-to-all-equal-elements](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/3576-transform-array-to-all-equal-elements) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2169-count-operations-to-obtain-zero](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/2169-count-operations-to-obtain-zero) |
 | [2211-count-collisions-on-a-road](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/2211-count-collisions-on-a-road) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Sorting
 |  |
 | ------- |
@@ -183,4 +186,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0067-add-binary) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+## Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Ordered Set
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
