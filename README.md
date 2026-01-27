@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Graph
 |  |
@@ -159,10 +161,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Segment Tree
 |  |
@@ -189,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Heap (Priority Queue)
 |  |
