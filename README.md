@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0508-most-frequent-subtree-sum](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0508-most-frequent-subtree-sum) |
+| [0652-find-duplicate-subtrees](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0652-find-duplicate-subtrees) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Breadth-First Search
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0508-most-frequent-subtree-sum](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0508-most-frequent-subtree-sum) |
+| [0652-find-duplicate-subtrees](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0652-find-duplicate-subtrees) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/1590-make-sum-divisible-by-p) |
@@ -167,12 +169,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0508-most-frequent-subtree-sum](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0508-most-frequent-subtree-sum) |
+| [0652-find-duplicate-subtrees](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0652-find-duplicate-subtrees) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0508-most-frequent-subtree-sum](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0508-most-frequent-subtree-sum) |
+| [0652-find-duplicate-subtrees](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0652-find-duplicate-subtrees) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Segment Tree
 |  |
