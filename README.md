@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0652-find-duplicate-subtrees](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0652-find-duplicate-subtrees) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1146-snapshot-array](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/1146-snapshot-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/1590-make-sum-divisible-by-p) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1146-snapshot-array](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/1146-snapshot-array) |
 | [1390-four-divisors](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/1390-four-divisors) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/1535-find-the-winner-of-an-array-game) |
 | [1590-make-sum-divisible-by-p](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/1590-make-sum-divisible-by-p) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0436-find-right-interval](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0436-find-right-interval) |
 | [0475-heaters](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0475-heaters) |
+| [1146-snapshot-array](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/1146-snapshot-array) |
 | [3453-separate-squares-i](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/3454-separate-squares-ii) |
 ## Two Pointers
@@ -235,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3713-longest-balanced-substring-i](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/3713-longest-balanced-substring-i) |
+## Design
+|  |
+| ------- |
+| [1146-snapshot-array](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/1146-snapshot-array) |
 <!---LeetCode Topics End-->
