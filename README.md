@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/3713-longest-balanced-substring-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/3714-longest-balanced-substring-ii) |
 ## Math
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/1590-make-sum-divisible-by-p) |
 | [1895-largest-magic-square](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/1895-largest-magic-square) |
 | [2536-increment-submatrices-by-one](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/2536-increment-submatrices-by-one) |
+| [3714-longest-balanced-substring-ii](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/3714-longest-balanced-substring-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-apply-discount-to-prices](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/2288-apply-discount-to-prices) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3713-longest-balanced-substring-i](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/3713-longest-balanced-substring-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/3714-longest-balanced-substring-ii) |
 ## Stack
 |  |
 | ------- |
