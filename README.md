@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1390-four-divisors](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/1390-four-divisors) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1922-count-good-numbers](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/1922-count-good-numbers) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0067-add-binary) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/1535-find-the-winner-of-an-array-game) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2169-count-operations-to-obtain-zero](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/2169-count-operations-to-obtain-zero) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0067-add-binary) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Linked List
