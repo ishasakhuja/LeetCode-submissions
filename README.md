@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0098-validate-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0508-most-frequent-subtree-sum](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0508-most-frequent-subtree-sum) |
 | [0652-find-duplicate-subtrees](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0652-find-duplicate-subtrees) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0098-validate-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0508-most-frequent-subtree-sum](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0508-most-frequent-subtree-sum) |
 | [0652-find-duplicate-subtrees](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0652-find-duplicate-subtrees) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0098-validate-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0508-most-frequent-subtree-sum](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0508-most-frequent-subtree-sum) |
 | [0652-find-duplicate-subtrees](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0652-find-duplicate-subtrees) |
@@ -267,5 +270,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0098-validate-binary-search-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0669-trim-a-binary-search-tree) |
 <!---LeetCode Topics End-->
