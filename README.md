@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0508-most-frequent-subtree-sum](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0508-most-frequent-subtree-sum) |
 | [0652-find-duplicate-subtrees](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0652-find-duplicate-subtrees) |
+| [0669-trim-a-binary-search-tree](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0669-trim-a-binary-search-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Breadth-First Search
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0508-most-frequent-subtree-sum](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0508-most-frequent-subtree-sum) |
 | [0652-find-duplicate-subtrees](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0652-find-duplicate-subtrees) |
+| [0669-trim-a-binary-search-tree](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0669-trim-a-binary-search-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Binary Tree
 |  |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0508-most-frequent-subtree-sum](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0508-most-frequent-subtree-sum) |
 | [0652-find-duplicate-subtrees](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0652-find-duplicate-subtrees) |
+| [0669-trim-a-binary-search-tree](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0669-trim-a-binary-search-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Segment Tree
 |  |
@@ -261,4 +264,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0669-trim-a-binary-search-tree](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0669-trim-a-binary-search-tree) |
 <!---LeetCode Topics End-->
