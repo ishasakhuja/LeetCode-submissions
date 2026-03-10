@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/1390-four-divisors) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1922-count-good-numbers](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/1922-count-good-numbers) |
