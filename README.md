@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2169-count-operations-to-obtain-zero](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/2169-count-operations-to-obtain-zero) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2536-increment-submatrices-by-one](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/2536-increment-submatrices-by-one) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/3074-apple-redistribution-into-boxes) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3453-separate-squares-i](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/3453-separate-squares-i) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0436-find-right-interval) |
 | [0475-heaters](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0475-heaters) |
 | [1146-snapshot-array](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/1146-snapshot-array) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3453-separate-squares-i](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/3454-separate-squares-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/3074-apple-redistribution-into-boxes) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3576-transform-array-to-all-equal-elements](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/3576-transform-array-to-all-equal-elements) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Tree
@@ -248,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Doubly-Linked List
