@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2536-increment-submatrices-by-one](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/2536-increment-submatrices-by-one) |
+| [2906-construct-product-matrix](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/2906-construct-product-matrix) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -112,12 +113,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-largest-magic-square](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/1895-largest-magic-square) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2536-increment-submatrices-by-one](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/2536-increment-submatrices-by-one) |
+| [2906-construct-product-matrix](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/2906-construct-product-matrix) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1590-make-sum-divisible-by-p](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/1590-make-sum-divisible-by-p) |
 | [1895-largest-magic-square](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/1895-largest-magic-square) |
 | [2536-increment-submatrices-by-one](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/2536-increment-submatrices-by-one) |
+| [2906-construct-product-matrix](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/2906-construct-product-matrix) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3714-longest-balanced-substring-ii](https://github.com/ishasakhuja/LeetCode-submissions/tree/master/3714-longest-balanced-substring-ii) |
